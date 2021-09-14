@@ -1,0 +1,2 @@
+# ShayariApp
+Offline Shayari app
